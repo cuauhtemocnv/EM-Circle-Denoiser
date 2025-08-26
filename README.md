@@ -83,7 +83,7 @@ EM-Circle-Denoiser/
 Clone the repository:
 ```
 
-git clone https://github.com/yourusername/EM-Circle-Denoiser.git
+git clone https://github.com/cuauhtemoc/EM-Circle-Denoiser.git
 cd EM-Circle-Denoiser
 ```
 
