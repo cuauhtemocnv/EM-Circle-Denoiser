@@ -2,6 +2,7 @@
 
 A synthetic Electron Microscopy (EM)-style dataset and CNN denoiser for circles.  
 This repository simulates noisy EM images with realistic distortions, and trains a simple convolutional neural network to recover clean circles.
+![EM Circle Pipeline](images/MFT.png)
 
 ---
 
