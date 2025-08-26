@@ -79,9 +79,11 @@ EM-Circle-Denoiser/
 ⚡ Installation & Usage
 
 Clone the repository:
+```
 
 git clone https://github.com/yourusername/EM-Circle-Denoiser.git
 cd EM-Circle-Denoiser
+```
 
 
 Install dependencies:
