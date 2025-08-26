@@ -30,6 +30,7 @@ We simulate EM-style images using circles as target objects and optionally addin
 - Simulates how the microscope transfers spatial frequencies.
 - High-frequency details are attenuated.
 - Adds realistic EM-like noise and softens edges.
+![EM Circle Pipeline](images/mtflook.png)
 
 ### 3. Multi-Input Denoising
 - Each training sample has **3 noisy versions** of the same circle.
