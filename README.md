@@ -8,6 +8,7 @@ This repository simulates noisy EM images with realistic distortions, and trains
 ## 🌟 Concept
 
 We simulate EM-style images using circles as target objects and optionally adding distractors (triangles). The simulation includes realistic microscopy effects:
+![EM Circle Pipeline](images/noises.png)
 
 ### 1. Target and Distractors
 - **Circle:** The object of interest. This is the "ground truth".
@@ -49,6 +50,8 @@ The figure below shows the complete pipeline:
 Red contours highlight the **true circle** at all stages.
 
 ![EM Circle Pipeline](images/example_pipeline.png)
+![EM Circle Pipeline](images/example_pipeline2.png)
+![EM Circle Pipeline](images/example_pipeline3.png)
 
 ---
 
